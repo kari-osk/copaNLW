@@ -1,2 +1,3 @@
-# copaNLW
-[NLW Copa]('./web.png')
+# NLW Copa - Ignite
+<p>Evento da Rocketseat NLW Copa</p>
+<img src='./web.png'>
